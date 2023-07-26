@@ -391,7 +391,7 @@ function setMyprice() {
      *         data: JSON.stringify({myprice: myprice}),
      *         빠뜨리지 말 것!
      * 4. 모달을 종료한다. $('#container').removeClass('active');
-     * 5, 성공적으로 등록되었음을 알리는 alert를 띄운다.
+     * 5, 성공적으로 등록되었음을 알리는 alert를 띄운다
      * 6. 창을 새로고침한다. window.location.reload();
      */
         // 1. id가 myprice 인 input 태그에서 값을 가져온다.
