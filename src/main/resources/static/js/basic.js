@@ -412,7 +412,7 @@ function setMyprice() {
 
             // 4. 모달을 종료한다. $('#container').removeClass('active');
             $('#container').removeClass('active');
-            // 5. 성공적으로 등록되었음을 알리는 alert를 띄운다.
+            // 5. 성공적으로 등록되었음을 알리는 alert를 띄운다
             alert('성공적으로 등록되었습니다.');
             // 6. 창을 새로고침한다. window.location.reload();
             window.location.reload();
