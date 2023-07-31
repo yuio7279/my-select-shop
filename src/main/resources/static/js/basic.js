@@ -402,7 +402,7 @@ function setMyprice() {
         return;
     }
 
-    // 3. PUT /api/product/${targetId} 에 data를 전달한다.
+    // 3. PUT /api/product/${targetId} 에 data를 전달한다
     $.ajax({
         type: 'PUT',
         url: `/api/products/${targetId}`,
